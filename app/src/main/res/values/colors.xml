@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#59c90f</color>
+    <color name="colorPrimaryDark">#59c90f</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="picture_above">#35e6e6e6</color>
+    <color name="pictureUn_s_above">#41ffffff</color>
+    <color name="black">#000000</color>
+    <color name="btn_reload">#e1e1e1</color>
+    <color name="btn_reload_text">#515151</color>
+    <color name="white">#ffffff</color>
+    <color name="products_trans">#70ffffff</color>
+    <color name="trans">#00ffffff</color>
+    <color name="darkGreen">#56c20e</color>
+
+    <color name="yellow_canary">#c5d400</color>
+    <color name="dark_canary">#d0de19</color>
+    <color name="bg_reside">#56c20e</color>
+    <color name="text_num_of_basket">#203910</color>
+    <color name="onHover">#83b30b</color>
+
+
+    <color name="bg_recycler_main">#e4c966</color>
+    <color name="products_name">#1b1a1a</color>
+</resources>

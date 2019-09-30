@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ماركيديا ماركت</string>
+    <string name="Home">الرئيسية</string>
+    <string name="AboutUs">من نحن</string>
+    <string name="RateApp">قيم التطبيق</string>
+    <string name="AboutApp">عن التطبيق</string>
+    <string name="ConnUs">اتصل بنا</string>
+    <string name="Language">English</string>
+    <string name="pound">جنيـة</string>
+    <string name="DeliveryNotes">ملاحظات التوصيل</string>
+    <string name="Addrise">العنوان</string>
+    <string name="PhoneOne">تليفون 1</string>
+    <string name="PhoneTwo">تليفون 2</string>
+    <string name="theName">الاسم</string>
+    <string name="SendOrder">ارسال الطلب</string>
+    <string name="ErrorSendOrd">"عذرا , حدث خطا يرجي المحاوله مجددا "</string>
+    <string name="PleaseWait">برجاء الانتظار..</string>
+    <string name="ProgressMessOrd">"جار ارسال طلبك "</string>
+    <string name="tostEmptyRow">يرجي عدم ترك خانه فارغه</string>
+    <string name="ContentUs">اتصل بنا</string>
+    <string name="urMessage">رسالتك</string>
+    <string name="send">ارسال</string>
+    <string name="name">الاسم</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="parts">"اختر القسم "</string>
+    <string name="MHome">ماركيديا ماركت</string>
+    <string name="Le">ج.م</string>
+    <string name="content">"اتصل بنا "</string>
+    <string name="Basket">السلة</string>
+    <string name="products">المنتجات</string>
+    <string name="choosePart">اختر قسم</string>
+    <string name="deliveryplace">يرجي تحديد مكان التوصيل</string>
+    <string name="doneOrder">"تم تقديم طلبك "</string>
+    <string name="ourNum">رقمنا هـو :</string>
+    <string name="emptyCar">عربه التسوق فارغه !</string>
+    <string name="errorNum">رقم الهاتف غير صحيح !!</string>
+    <string name="delivery">التـوصيل</string>
+    <string name="total">الاجمـالي :</string>
+    <string name="kg">كجم</string>
+</resources>

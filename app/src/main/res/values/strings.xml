@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Markedya Market</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="nav_header_title" translatable="false">Android Studio</string>
+    <string name="nav_header_subtitle" translatable="false">android.studio@android.com</string>
+    <string name="nav_header_desc" translatable="false">Navigation header</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="Home">Home</string>
+    <string name="AboutUs">About Us</string>
+    <string name="RateApp">Rate App</string>
+    <string name="AboutApp">About App</string>
+    <string name="ConnUs">Contact Us</string>
+    <string name="Language">عربي</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pound">Pound</string>
+    <string name="SendOrder">Send Order</string>
+    <string name="theName">Name</string>
+    <string name="PhoneOne">Mobile 1</string>
+    <string name="PhoneTwo">Mobile 2</string>
+    <string name="Addrise">Address</string>
+    <string name="DeliveryNotes">Delivery Notes</string>
+    <string name="ErrorSendOrd">Sorry , Some Thing Is Wrong</string>
+    <string name="PleaseWait">Please Wait..</string>
+    <string name="ProgressMessOrd">Sending Youre Order</string>
+    <string name="tostEmptyRow">Please Don\'t Leave Empty Field</string>
+    <string name="ContentUs">Contact Us</string>
+    <string name="urMessage">Your Message</string>
+    <string name="send">Send</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="parts">choose the part</string>
+    <string name="MHome">Markedya</string>
+    <string name="deliveryplace">Plaese Select The Delivery Place</string>
+    <string name="Le">L.E</string>
+    <string name="choosePart">Choose a Part</string>
+    <string name="products">Products</string>
+    <string name="Basket">Cart</string>
+    <string name="content">Contact</string>
+    <string name="doneOrder">Your order is sent</string>
+    <string name="ourNum">Our Number Is :</string>
+    <string name="emptyCar">The Cart Is Empty !</string>
+    <string name="errorNum">Phone Number is Wrong !!</string>
+    <string name="delivery">Delivery</string>
+    <string name="total">Total :</string>
+    <string name="kg">Kg</string>
+</resources>
