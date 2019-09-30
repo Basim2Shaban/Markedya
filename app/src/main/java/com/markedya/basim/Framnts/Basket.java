@@ -251,7 +251,7 @@ public class Basket extends Fragment {
         final long milisec = calendar.getTimeInMillis();
 
         Random random = new Random();
-        final long m = random.nextInt(50000000);
+        final long m = random.nextInt(50000000);//
 
 
         firebaseVar.mOrders.child(String.valueOf(m + milisec)).setValue(hashMap).addOnCompleteListener(new OnCompleteListener<Void>() {
